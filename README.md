@@ -1,6 +1,6 @@
 # C - Sorting algorithms & Big O
 
-This is an algorithm-based project in C Programming Language, by **Stpehn Ohaeri** and **Julius Elizabeth** during the Full Stack Software Engineering studies at **ALX**. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
+This is an algorithm-based project in C Programming Language, by **Stephen Ohaeri** and **Julius Elizabeth itohan** during the Full Stack Software Engineering studies at **ALX**. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
 
 ## Tests :heavy_check_mark:
 
@@ -167,10 +167,10 @@ Function Prototype:
     </ul>
 </details>
 <details>
-    <summary>Julius Elizabeth</summary>
+    <summary>Julius Elizabeth itohan</summary>
     <ul
-    <li><a href="https://www.github.com/codivily">Github</a></li>
-    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/itohaneliza">Github</a></li>
+    <li><a href="mailto:juliuseli2004@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
